@@ -2,20 +2,55 @@ title: All my Dumd Model Swaps Combined
 originalAuthor: Shananas
 description:
 assets:
- - name: obj/M_EX760_RAW.mdlx
-   method: copy
-   source:
-    - name: obj/M_EX760_RAW.mdlx
- - name: obj/M_EX770_RAW.mdlx
-   method: copy
-   source:
-    - name: obj/M_EX770_RAW.mdlx
- - name: obj/M_EX880.mdlx
-   method: copy
-   source:
-    - name: obj/M_EX880.mdlx
- - name: obj/M_EX990.mdlx
-   method: copy
-   source:
-    - name: obj/M_EX990.mdlx
-    
+- name: obj/M_EX760_RAW.mdlx
+  method: copy
+  source:
+  - name: obj/M_EX760_RAW.mdlx
+- name: obj/M_EX770_RAW.mdlx
+  method: copy
+  source:
+  - name: obj/M_EX770_RAW.mdlx
+- name: obj/M_EX880.mdlx
+  method: copy
+  source:
+  - name: obj/M_EX880.mdlx
+- name: obj/M_EX990.mdlx
+  method: copy
+  source:
+  - name: obj/M_EX990.mdlx
+- name: obj/N_NM070_BTL.mdlx
+  method: copy
+  source:
+  - name: N_NM070_BTL.mdlx
+- name: obj/N_HB020_DEWEY_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_HB020_DEWEY_RTN.mdlx
+- name: obj/N_NM050_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_NM050_BTL.mdlx
+- name: obj/N_HB020_HUEY_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_HB020_HUEY_RTN.mdlx
+- name: obj/N_NM060_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_NM060_BTL.mdlx
+- name: obj/N_HB020_LOUIE_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_HB020_LOUIE_RTN.mdlx
+- name: obj/N_NM050_BTL_2.mdlx
+  method: copy
+  source:
+  - name: obj/N_NM050_BTL.mdlx
+- name: obj/N_NM060_BTL_2.mdlx
+  method: copy
+  source:
+  - name: obj/N_NM060_BTL.mdlx
+- name: obj/N_NM070_BTL_2.mdlx
+  method: copy
+  source:
+  - name: obj/N_NM070_BTL.mdlx
