@@ -21,7 +21,7 @@ assets:
 - name: obj/N_NM070_BTL.mdlx
   method: copy
   source:
-  - name: N_NM070_BTL.mdlx
+  - name: obj/N_NM070_BTL.mdlx
 - name: obj/N_HB020_DEWEY_RTN.mdlx
   method: copy
   source:
