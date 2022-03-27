@@ -1,0 +1,21 @@
+title: All my Dumd Model Swaps Combined
+originalAuthor: Shananas
+description:
+assets:
+ - name: obj/M_EX760_RAW.mdlx
+   method: copy
+   source:
+    - name: obj/M_EX760_RAW.mdlx
+ - name: obj/M_EX770_RAW.mdlx
+   method: copy
+   source:
+    - name: obj/M_EX770_RAW.mdlx
+ - name: obj/M_EX880.mdlx
+   method: copy
+   source:
+    - name: obj/M_EX880.mdlx
+ - name: obj/M_EX990.mdlx
+   method: copy
+   source:
+    - name: obj/M_EX990.mdlx
+    
