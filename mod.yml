@@ -54,3 +54,7 @@ assets:
   method: copy
   source:
   - name: obj/N_NM070_BTL_2.mdlx
+- name: msn/jp/NM10_MS201.bar
+  method: copy
+  source:
+  - name: msn/NM10_MS201.bar
