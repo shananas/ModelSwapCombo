@@ -70,3 +70,7 @@ assets:
   method: copy
   source:
    - name: obj/M_EX880_DANCER_LV99.mdlx
+- name: obj/M_EX930.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX930.mdlx
