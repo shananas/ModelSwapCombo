@@ -58,7 +58,7 @@ assets:
   method: copy
   source:
   - name: msn/NM10_MS201.bar
-  - name: obj/M_EX880_DANCER.mdlx
+- name: obj/M_EX880_DANCER.mdlx
   method: copy
   source:
    - name: obj/M_EX880_DANCER.mdlx
