@@ -54,10 +54,6 @@ assets:
   method: copy
   source:
   - name: obj/N_NM070_BTL_2.mdlx
-- name: msn/jp/NM10_MS201.bar
-  method: copy
-  source:
-  - name: msn/NM10_MS201.bar
 - name: obj/M_EX880_DANCER.mdlx
   method: copy
   source:
@@ -98,3 +94,21 @@ assets:
   method: copy
   source:
    - name: obj/M_EX020_WI_RAW.mdlx
+
+#Bar
+- name: msn/jp/NM10_MS201.bar
+  method: binarc
+  source:
+  - name: ct_n
+    type: imgd
+    method: copy
+    source:
+    - name: obj/ct_n.imd
+- name: obj/P_AL010.a.fm
+  method: binarc
+  source:
+  - name: ct_n
+    type: seqd
+    method: copy
+    source:
+    - name: obj/ct_n.sqd
