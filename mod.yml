@@ -104,7 +104,7 @@ assets:
     method: copy
     source:
     - name: msn/ct_n.imd
-- name: obj/NM10_MS201.bar
+- name: msn/jp/NM10_MS201.bar
   method: binarc
   source:
   - name: ct_n
