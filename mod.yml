@@ -103,7 +103,7 @@ assets:
     type: imgd
     method: copy
     source:
-    - name: obj/ct_n.imd
+    - name: msn/ct_n.imd
 - name: obj/P_AL010.a.fm
   method: binarc
   source:
@@ -111,4 +111,4 @@ assets:
     type: seqd
     method: copy
     source:
-    - name: obj/ct_n.sqd
+    - name: msn/ct_n.sqd
