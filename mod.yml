@@ -94,6 +94,14 @@ assets:
   method: copy
   source:
    - name: obj/M_EX020_WI_RAW.mdlx
+- name: obj/B_EX390.mdlx
+  method: copy
+  source:
+   - name: obj/B_EX390.mdlx
+- name: obj/N_EX820_BTL.mdlx
+  method: copy
+  source:
+   - name: obj/N_EX820_BTL.mdlx
 
 #Bar
 - name: msn/jp/NM10_MS201.bar
