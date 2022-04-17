@@ -126,6 +126,14 @@ assets:
   method: copy
   source:
   - name: obj/B_LK100_20_RTN.mdlx
+- name: obj/N_PO010_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/F_PO080.mdlx
+- name: obj/F_PO080.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO010_BTL.mdlx
 
 #Bar
 - name: msn/jp/NM10_MS201.bar
