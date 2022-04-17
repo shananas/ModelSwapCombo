@@ -2,22 +2,27 @@ title: All my Dumd Model Swaps Combined
 originalAuthor: Shananas
 description:
 assets:
+#Armored Knight
 - name: obj/M_EX760_RAW.mdlx
   method: copy
   source:
   - name: obj/M_EX760_RAW.mdlx
+#SurveillanceRobot
 - name: obj/M_EX770_RAW.mdlx
   method: copy
   source:
   - name: obj/M_EX770_RAW.mdlx
+#AWWW MAN
 - name: obj/M_EX880.mdlx
   method: copy
   source:
   - name: obj/M_EX880.mdlx
+#Dusk
 - name: obj/M_EX990.mdlx
   method: copy
   source:
   - name: obj/M_EX990.mdlx
+#Christmas Ducks
 - name: obj/N_NM070_BTL.mdlx
   method: copy
   source:
@@ -54,6 +59,7 @@ assets:
   method: copy
   source:
   - name: obj/N_NM070_BTL_2.mdlx
+#Dancing Queen
 - name: obj/M_EX880_DANCER.mdlx
   method: copy
   source:
@@ -66,10 +72,12 @@ assets:
   method: copy
   source:
    - name: obj/M_EX880_DANCER_LV99.mdlx
+#Tall Kairi
 - name: obj/M_EX930.mdlx
   method: copy
   source:
    - name: obj/M_EX930.mdlx
+#Mughal Empire
 - name: obj/M_EX020.mdlx
   method: copy
   source:
@@ -94,6 +102,7 @@ assets:
   method: copy
   source:
    - name: obj/M_EX020_WI_RAW.mdlx
+#Pride Rock
 - name: obj/B_EX390.mdlx
   method: copy
   source:
@@ -102,6 +111,7 @@ assets:
   method: copy
   source:
    - name: obj/N_EX820_BTL.mdlx
+#ICANFLY
 - name: obj/B_LK100_00.mdlx
   method: copy
   source:
@@ -126,6 +136,7 @@ assets:
   method: copy
   source:
   - name: obj/B_LK100_20_RTN.mdlx
+#Yeet The Bear
 - name: obj/N_PO010_BTL.mdlx
   method: copy
   source:
@@ -136,6 +147,7 @@ assets:
   - name: obj/N_PO010_BTL.mdlx
 
 #Bar
+#Also Christmas Ducks
 - name: msn/jp/NM10_MS201.bar
   method: binarc
   source:
