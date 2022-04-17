@@ -102,6 +102,30 @@ assets:
   method: copy
   source:
    - name: obj/N_EX820_BTL.mdlx
+- name: obj/B_LK100_00.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_00.mdlx
+- name: obj/B_LK100_10.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_10.mdlx
+- name: obj/B_LK100_20.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_20.mdlx
+- name: obj/B_LK100_00_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_00_RTN.mdlx
+- name: obj/B_LK100_10_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_10_RTN.mdlx
+- name: obj/B_LK100_20_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_20_RTN.mdlx
 
 #Bar
 - name: msn/jp/NM10_MS201.bar
