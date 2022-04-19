@@ -145,6 +145,35 @@ assets:
   method: copy
   source:
   - name: obj/N_PO010_BTL.mdlx
+#UGotaFriendInMe
+- name: obj/N_EX640_SHOP_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX640_SHOP_RTN.mdlx
+- name: obj/SHOP_POINT_SUB.mdlx
+  method: copy
+  source:
+  - name: obj/SHOP_POINT_SUB.mdlx
+- name: obj/N_EX640_SHOP_POINT_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX640_SHOP_POINT_RTN.mdlx
+- name: obj/SHOP_POINT.mdlx
+  method: copy
+  source:
+  - name: obj/SHOP_POINT.mdlx
+- name: obj/SHOP_POINT_LOW.mdlx
+  method: copy
+  source:
+  - name: obj/SHOP_POINT_LOW.mdlx
+- name: obj/N_EX640_MOOGLE_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX640_MOOGLE_RTN.mdlx
+- name: obj/P_EX350.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX350_gud.mdlx
 
 #Bar
 #Also Christmas Ducks
