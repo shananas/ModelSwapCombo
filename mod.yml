@@ -154,6 +154,10 @@ assets:
   method: copy
   source:
   - name: obj/N_PO020_RTN.mdlx
+- name: obj/N_PO020_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO020_BTL.mdlx
 - name: obj/N_PO030_AIR_RTN.mdlx
   method: copy
   source:
@@ -162,10 +166,18 @@ assets:
   method: copy
   source:
   - name: obj/N_PO030_RTN.mdlx
+- name: obj/N_PO030_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO030_BTL.mdlx
 - name: obj/N_PO040_RTN.mdlx
   method: copy
   source:
   - name: obj/N_PO040_RTN.mdlx
+- name: obj/N_PO040_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO040_BTL.mdlx
 - name: obj/N_PO050_RTN.mdlx
   method: copy
   source:
@@ -174,6 +186,10 @@ assets:
   method: copy
   source:
   - name: obj/N_PO070_RTN.mdlx
+- name: obj/N_PO070_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO070_BTL.mdlx
 - name: obj/N_PO080_RTN.mdlx
   method: copy
   source:
