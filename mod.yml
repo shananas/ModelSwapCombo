@@ -145,6 +145,27 @@ assets:
   method: copy
   source:
   - name: obj/N_PO010_BTL.mdlx
+#Lore Discussions
+- name: obj/N_PO010_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO010_RTN.mdlx
+- name: obj/PO06_F_PO040.mdlx
+  method: copy
+  source:
+  - name: obj/PO06_F_PO040.mdlx
+- name: obj/PO06_F_PO080.mdlx
+  method: copy
+  source:
+  - name: obj/PO06_F_PO080.mdlx
+- name: obj/PO06_N_PO010.mdlx
+  method: copy
+  source:
+  - name: obj/PO06_N_PO010.mdlx
+- name: obj/PO06_N_PO030.mdlx
+  method: copy
+  source:
+  - name: obj/PO06_N_PO030.mdlx
 #UGotaFriendInMe
 - name: obj/N_EX640_SHOP_RTN.mdlx
   method: copy
