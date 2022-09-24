@@ -150,6 +150,38 @@ assets:
   method: copy
   source:
   - name: obj/N_PO010_RTN.mdlx
+- name: obj/N_PO020_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO020_RTN.mdlx
+- name: obj/N_PO030_AIR_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO030_AIR_RTN.mdlx
+- name: obj/N_PO030_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO030_RTN.mdlx
+- name: obj/N_PO040_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO040_RTN.mdlx
+- name: obj/N_PO050_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO050_RTN.mdlx
+- name: obj/N_PO070_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO070_RTN.mdlx
+- name: obj/N_PO080_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO080_RTN.mdlx
+- name: obj/N_PO100_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO100_RTN.mdlx
 - name: obj/PO06_F_PO040.mdlx
   method: copy
   source:
