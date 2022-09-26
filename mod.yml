@@ -214,6 +214,18 @@ assets:
   method: copy
   source:
   - name: obj/PO06_N_PO030.mdlx
+- name: obj/F_PO610.mdlx
+  method: copy
+  source:
+  - name: obj/F_PO610.mdlx
+- name: obj/N_PO090_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO090_RTN.mdlx
+- name: obj/PO07_N_PO090.mdlx
+  method: copy
+  source:
+  - name: obj/PO07_N_PO090.mdlx
 #UGotaFriendInMe
 - name: obj/N_EX640_SHOP_RTN.mdlx
   method: copy
