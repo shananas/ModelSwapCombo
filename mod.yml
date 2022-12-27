@@ -226,6 +226,26 @@ assets:
   method: copy
   source:
   - name: obj/PO07_N_PO090.mdlx
+- name: obj/PO07_F_PO070_S.mdlx
+  multi:
+    - name: obj/PO07_F_PO070_M.mdlx
+    - name: obj/PO07_F_PO070_L.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/PO07_F_PO070.texture
+#Remastered
+- name: remastered\obj\PO07_F_PO070_S.mdlx/-0.dds
+  platform: pc
+  multi:
+    - name: remastered\obj\PO07_F_PO070_M.mdlx/-0.dds
+    - name: remastered\obj\PO07_F_PO070_L.mdlx/-0.dds
+  method: copy
+  source:
+  - name: obj/golf.dds
 #UGotaFriendInMe
 - name: obj/N_EX640_SHOP_RTN.mdlx
   method: copy
