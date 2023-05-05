@@ -354,10 +354,10 @@ assets:
   method: copy
   source:
   - name: obj/N_EX640_MOOGLE_RTN.mdlx
-- name: obj/P_EX350.mdlx
-  method: copy
-  source:
-  - name: obj/P_EX350_gud.mdlx
+#- name: obj/P_EX350.mdlx
+#  method: copy
+#  source:
+#  - name: obj/P_EX350_gud.mdlx
 #Armored Samurai
 - name: obj/M_EX910.mdlx
   method: copy
