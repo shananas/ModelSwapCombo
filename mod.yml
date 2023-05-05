@@ -237,6 +237,89 @@ assets:
     method: copy
     source:
     - name: obj/PO07_F_PO070.texture
+#HundredSummons
+- name: obj/N_HB040_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_HB040_BTL.mdlx
+- name: obj/P_AL010.mdlx
+  method: copy
+  source:
+  - name: obj/P_AL010.mdlx
+- name: obj/P_EX330.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX330.mdlx
+- name: obj/P_EX340.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX340.mdlx
+- name: obj/P_EX350.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX350.mdlx
+#Icons
+- name: itempic/item-221.imd #Lamp Charm
+  method: copy
+  source:
+  - name: itempic/Lamp Charm.imd
+- name: itempic/item-222.imd #Ukulele Charm
+  method: copy
+  source:
+  - name: itempic/Ukulele Charm.imd
+- name: itempic/item-223.imd #Feather Charm
+  method: copy
+  source:
+  - name: itempic/Feather Charm.imd
+- name: itempic/item-224.imd #Baseball Charm
+  method: copy
+  source:
+  - name: itempic/Baseball Charm.imd
+
+#PC
+- name: remastered/itempic/item-221.imd/-0.dds #Lamp Charm
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Lamp Charm.dds
+- name: remastered/itempic/item-222.imd/-0.dds #Ukulele Charm
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Ukulele Charm.dds
+- name: remastered/itempic/item-224.imd/-0.dds #Baseball Charm
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Baseball Charm.dds
+- name: remastered/itempic/item-223.imd/-0.dds #Feather Charm
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Feather Charm.dds
+
+#Hud Stuff
+- name: remastered/obj/P_EX350.a.us/-15.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/PMember/-15.png #Chicken
+- name: remastered/obj/N_HB040_BTL.a.us/-18.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/PMember/-18.png #Dog
+- name: remastered/obj/P_EX330.a.us/-10.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/PMember/-10.dds #Pan
+- name: remastered/obj/P_AL010.a.us/-21.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/PMember/-21.dds #Genie
+
 #Remastered
 - name: remastered\obj\PO07_F_PO070_S.mdlx/-0.dds
   platform: pc
@@ -245,7 +328,7 @@ assets:
     - name: remastered\obj\PO07_F_PO070_L.mdlx/-0.dds
   method: copy
   source:
-  - name: obj/golf.dds
+  - name: remastered/golf.dds
 #UGotaFriendInMe
 - name: obj/N_EX640_SHOP_RTN.mdlx
   method: copy
