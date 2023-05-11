@@ -287,6 +287,14 @@ assets:
   method: copy
   source:
   - name: remastered/chicken_little.scd
+- name: remastered\obj\P_EX330.a.us\voice\battle\us\peterpan
+  method: copy
+  source:
+  - name: remastered/peterpan.scd
+- name: remastered\obj\P_EX330.a.us\se\obj\se595
+  method: copy
+  source:
+  - name: remastered/tinkerbell.scd
 
 #PC
 - name: remastered/itempic/item-221.imd/-0.dds #Lamp Charm
