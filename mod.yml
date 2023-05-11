@@ -283,6 +283,10 @@ assets:
   method: copy
   source:
   - name: itempic/Baseball Charm.imd
+- name: remastered\obj\P_EX350.a.us\voice\battle\us\chicken_little
+  method: copy
+  source:
+  - name: remastered/chicken_little.scd
 
 #PC
 - name: remastered/itempic/item-221.imd/-0.dds #Lamp Charm
