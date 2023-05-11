@@ -295,6 +295,10 @@ assets:
   method: copy
   source:
   - name: remastered/tinkerbell.scd
+- name: remastered\obj\N_HB040_BTL.a.us\voice\battle\us\stitch
+  method: copy
+  source:
+  - name: remastered/stitch.scd
 
 #PC
 - name: remastered/itempic/item-221.imd/-0.dds #Lamp Charm
