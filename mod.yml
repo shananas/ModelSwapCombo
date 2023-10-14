@@ -435,3 +435,13 @@ assets:
 #  method: copy
 #  source:
 #   - name: obj/TendrilN_EX940_BTL.mdlx
+
+#Cloudy with a Chance of Meatballs
+- name: obj/B_EX100.mdlx
+  method: copy
+  source:
+   - name: obj/B_EX100.mdlx
+- name: obj/B_NM000.mdlx
+  method: copy
+  source:
+   - name: obj/B_NM000.mdlx
