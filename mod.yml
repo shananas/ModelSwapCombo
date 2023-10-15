@@ -441,14 +441,6 @@ assets:
   method: copy
   source:
    - name: obj/B_EX100.mdlx
-- name: obj/B_AL020.mdlx
-  method: binarc
-  source:
-  - name: tim_
-    type: modeltexture
-    method: copy
-    source:
-    - name: obj/MiXaV/B_AL020.tim
 - name: obj/B_NM000.mdlx
   method: binarc
   source:
