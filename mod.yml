@@ -441,7 +441,48 @@ assets:
   method: copy
   source:
    - name: obj/B_EX100.mdlx
+- name: obj/B_AL020.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/MiXaV/B_AL020.tim
 - name: obj/B_NM000.mdlx
+  method: binarc
+  source:
+  - name: b_nm
+    type: model
+    method: copy
+    source:
+    - name: obj/B_NM000.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_NM000.texture
+- name: remastered/obj/B_NM000.mdlx/-0.dds
   method: copy
   source:
-   - name: obj/B_NM000.mdlx
+   - name: remastered/oogie/-0.dds
+- name: remastered/obj/B_NM000.mdlx/-1.dds
+  method: copy
+  source:
+   - name: remastered/oogie/-1.dds
+- name: remastered/obj/B_NM000.mdlx/-2.dds
+  method: copy
+  source:
+   - name: remastered/oogie/-2.dds
+- name: remastered/obj/B_NM000.mdlx/-3.dds
+  method: copy
+  source:
+   - name: remastered/oogie/-3.dds
+- name: remastered/obj/B_NM000.mdlx/-4.dds
+  method: copy
+  source:
+   - name: remastered/oogie/-4.dds
+- name: remastered/obj/B_NM000.mdlx/-5.dds
+  method: copy
+  source:
+   - name: remastered/oogie/-5.dds
