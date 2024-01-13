@@ -2,6 +2,42 @@ title: All my Dumd Model Swaps Combined
 originalAuthor: Shananas
 description:
 assets:
+#Auron Statue
+- method: binarc
+  multi:
+  - name: msg/jp/sys.bar
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  name: msg/us/sys.bar
+  source:
+  - method: kh2msg
+    name: sys
+    source:
+    - language: en
+      name: sys.yml
+    type: list
+- name: obj/F_HE030_L.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE030_L.mdlx
+- name: obj/N_HE020_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_HE020_BTL.mdlx
+#- name: obj/F_HE030_S.mdlx
+#  method: copy
+#  source:
+#  - name: obj/F_HE030_S.mdlx
+- name: obj/F_HE600.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE600.mdlx
+- name: remastered/itempic/item-234.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/itempic/Auron.dds
 #Armored Knight
 - name: obj/M_EX760_RAW.mdlx
   method: copy
