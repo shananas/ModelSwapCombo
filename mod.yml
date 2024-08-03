@@ -546,9 +546,9 @@ assets:
     method: copy
     source:
     - name: msn/ct_n.sqd
-- name: remastered/msn/us/NM_MS201.bar/US_NM10_MS201_bar0.png
+- name: remastered/msn/us/NM10_MS201.bar/US_NM10_MS201_bar0.png
   platform: pc
-  method: binarc
+  method: copy
   source:
   - name: remastered/Ducks.png
 
