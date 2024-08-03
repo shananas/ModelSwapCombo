@@ -546,20 +546,11 @@ assets:
     method: copy
     source:
     - name: msn/ct_n.sqd
-- name: msn/us/NM10_MS201.bar
+- name: remastered/msn/us/NM_MS201.bar/US_NM10_MS201_bar0.png
   platform: pc
   method: binarc
   source:
-  - name: ct_n
-    type: imgd
-    method: copy
-    source:
-    - name: msn/ct_n.imd
-  - name: ct_n
-    type: seqd
-    method: copy
-    source:
-    - name: msn/ct_n.sqd
+  - name: remastered/Ducks.png
 
 #TallRiku
 - name: obj/N_EX940_BTL.mdlx
