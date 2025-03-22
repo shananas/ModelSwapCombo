@@ -765,3 +765,8 @@ assets:
   method: copy
   source:
   - name: obj/WM_DC040.mdlx
+#Birb
+- name: obj/B_MU110.mdlx
+  method: copy
+  source:
+  - name: obj/B_MU110.mdlx
